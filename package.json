@@ -1,0 +1,10 @@
+{
+  "name": "bot-sate",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@google/generative-ai": "^0.1.3",
+    "discord.js": "^14.26.4",
+    "groq-sdk": "^1.2.0"
+  }
+}
